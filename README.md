@@ -64,3 +64,52 @@ Una idea interessant
 Durant dècades, la filosofia inspirava la informàtica: lògica, llenguatge, raonament. Ara està passant també el contrari. Les noves capacitats de la IA estan obligant els filòsofs a replantejar preguntes antigues sobre la ment, la consciència, el coneixement i fins i tot la naturalesa humana.
 
 Per això, alguns diuen que la IA és el laboratori filosòfic més important del segle XXI: no perquè resolga les preguntes de la filosofia, sinó perquè les fa més urgent
+
+Actualment, crec q les preguntes mes frequents que es fan les persones son estrictament marxistes. Que opines. Per què pot ser? Te a veure en conformar un consens sobre la ia
+
+És una observació interessant. Jo matisaria que moltes de les preguntes públiques sobre la IA no són estrictament marxistes, però sí que sovint tenen una dimensió que Marx ajudaria a analitzar.
+
+Per exemple, quan la gent pregunta:
+
+"La IA em llevarà la faena?"
+"Qui guanyarà diners amb aquesta tecnologia?"
+"Per què unes poques empreses controlen models tan potents?"
+"Qui és propietari de les dades amb què s'entrena la IA?"
+"Com es repartiran els beneficis de l'automatització?"
+
+aquestes preguntes tenen molt a veure amb temes centrals de Marx: treball, capital, propietat, poder econòmic i distribució de la riquesa.
+
+Per què passa això ara?
+
+Perquè la IA ha deixat de ser una qüestió purament teòrica. Fa vint anys el debat era més "cartesià" o "kantia": poden pensar les màquines?, poden ser conscients? Ara que la tecnologia afecta ocupacions, empreses i institucions, les preocupacions es desplacen cap a les conseqüències socials i econòmiques.
+
+Això no significa que la consciència haja deixat d'importar. Però per a molta gent és més urgent saber:
+
+"Com canviarà la meua vida?"
+que no
+"Pot una IA tindre experiències subjectives?"
+
+Respecte a la teua segona pregunta, sí que podria haver-hi una relació amb la necessitat de construir un consens social sobre la IA.
+
+Qualsevol tecnologia molt poderosa necessita algun grau de legitimitat social. Per decidir:
+
+quines regulacions acceptem,
+quins usos considerem legítims,
+qui n'ha de ser responsable,
+com es distribueixen costos i beneficis,
+
+la societat ha d'arribar a certs acords col·lectius.
+
+I ací apareix una qüestió molt marxista: els consensos no solen formar-se en el buit. Marx insistia que les idees dominants d'una època estan relacionades amb les estructures econòmiques i les relacions de poder. Això portaria a preguntar-se:
+
+Qui està definint el relat sobre la IA?
+Les grans empreses tecnològiques?
+Els governs?
+Els treballadors?
+Els investigadors?
+
+Des d'una perspectiva marxista, el debat sobre la IA no seria només un debat sobre tecnologia, sinó també una lluita per determinar qui controla els recursos productius del segle XXI.
+
+Tanmateix, hi ha una altra lectura possible. Potser les preguntes actuals semblen marxistes no perquè la gent s'haja tornat marxista, sinó perquè la IA és, abans que res, una tecnologia econòmica. Quan una innovació afecta l'ocupació, els salaris i el poder de mercat, és normal que les preguntes giren cap a l'economia política, i Marx és un dels grans autors per pensar aquests problemes.
+
+De fet, una formulació molt actual seria: la pregunta filosòfica central ja no és tant "pot pensar la IA?" sinó "qui es beneficia del fet que la IA pense (o semble pensar)?". Aquesta reformulació sí que s'acosta molt a l'esperit de Marx.
