@@ -113,3 +113,23 @@ Des d'una perspectiva marxista, el debat sobre la IA no seria només un debat so
 Tanmateix, hi ha una altra lectura possible. Potser les preguntes actuals semblen marxistes no perquè la gent s'haja tornat marxista, sinó perquè la IA és, abans que res, una tecnologia econòmica. Quan una innovació afecta l'ocupació, els salaris i el poder de mercat, és normal que les preguntes giren cap a l'economia política, i Marx és un dels grans autors per pensar aquests problemes.
 
 De fet, una formulació molt actual seria: la pregunta filosòfica central ja no és tant "pot pensar la IA?" sinó "qui es beneficia del fet que la IA pense (o semble pensar)?". Aquesta reformulació sí que s'acosta molt a l'esperit de Marx.
+
+
+## El test de Turing 
+
+És una de les idees més famoses de la història de la informàtica i la intel·ligència artificial. Va ser proposat pel matemàtic britànic Alan Turing l'any 1950. 
+
+La idea és sorprenentment simple: en lloc de preguntar-se "pot pensar una màquina?", Turing va plantejar una prova pràctica. Una persona conversa per escrit amb dos interlocutors ocults: un humà i una màquina. Si després d'una estona no és capaç de distingir de manera fiable quin és quin, es diu que la màquina ha superat el test. 
+
+Per què va ser tan important?
+Abans de Turing, la pregunta sobre si una màquina podia "pensar" era molt filosòfica. Ell la va transformar en una qüestió observable: si el comportament és indistingible del d'un humà, podem considerar-la intel·ligent a efectes pràctics. 
+
+Crítiques al test
+Molts filòsofs i científics han assenyalat que enganyar un interlocutor no implica necessàriament comprendre el que s'està dient. Un dels arguments més coneguts és la "Sala Xinesa" de John Searle, que sosté que una màquina podria manipular símbols correctament sense entendre'n el significat. 
+
+I les IA actuals?
+Amb l'arribada dels grans models de llenguatge, el debat ha tornat amb força. Alguns estudis recents afirmen que determinades IA poden enganyar moltes persones en converses breus, mentre que altres investigadors consideren que encara no compleixen fidelment l'esperit original del test de Turing. El consens és que "semblar humà" no és exactament el mateix que "pensar com un humà". 
+
+De fet, avui molts experts consideren que el test de Turing és més una fita històrica i filosòfica que no pas la millor manera de mesurar la intel·ligència artificial. 
+
+Una pregunta interessant és: si una IA et convenç completament que és humana, però tu saps que és una IA, creus que ha passat el test de Turing o no? Aquesta qüestió divideix encara avui els especialistes.
