@@ -2,7 +2,9 @@
 
 ---
 ### Recursos
+
 analyticsvidhya
+
 ---
 
 La relació entre la informàtica i la filosofia s'ha tornat especialment intensa en els darrers anys, principalment per l'avenç de la intel·ligència artificial. De fet, moltes de les preguntes que avui semblen tecnològiques són, en el fons, filosòfiques.
